@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AMLyxCoFPqHpbrSNNW5hWR6w7SzZaiMlJ46gZXnZFoVGovGBehPCF4jeGgVUTWp9U1WsqE6jURF7tdwZytw1gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hazem_Serdah\\Desktop\\Pita\\Pita.Core\\Pita.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hazem_Serdah\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.14\\microsoft.aspnetcore.http.features.5.0.14.nupkg.sha512",
+    "C:\\Users\\Hazem_Serdah\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Hazem_Serdah\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.AssemblyInfo.cs
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Infrastructure.deps.json
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Infrastructure.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\ref\Pita.Infrastructure.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Infrastructure.pdb
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Core.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Data.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Data.pdb
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\bin\Debug\net5.0\Pita.Core.pdb
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.csproj.CopyComplete
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\ref\Pita.Infrastructure.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Infrastructure\obj\Debug\net5.0\Pita.Infrastructure.pdb

@@ -1,0 +1,12 @@
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\bin\Debug\net5.0\Pita.Core.deps.json
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\bin\Debug\net5.0\Pita.Core.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\bin\Debug\net5.0\ref\Pita.Core.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\bin\Debug\net5.0\Pita.Core.pdb
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.csproj.AssemblyReference.cache
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.AssemblyInfoInputs.cache
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.AssemblyInfo.cs
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\ref\Pita.Core.dll
+C:\Users\Hazem_Serdah\Desktop\Pita\Pita.Core\obj\Debug\net5.0\Pita.Core.pdb
